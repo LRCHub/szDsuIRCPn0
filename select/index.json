@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "MAYDAY",
+  "base_artist": "TheFatRat",
+  "createdAt": "2025-12-26T06:20:43.243165Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mayday",
+      "artist": "The Libertines",
+      "has_synced": false,
+      "path": "select/01_Mayday_The_Libertines.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mayday",
+      "artist": "UNKLE",
+      "has_synced": false,
+      "path": "select/02_Mayday_UNKLE.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mayday",
+      "artist": "Sébastien Tellier",
+      "has_synced": true,
+      "path": "select/03_Mayday_Sébastien_Tellier.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mayday",
+      "artist": "UNKLE feat. The Duke Spirit",
+      "has_synced": true,
+      "path": "select/04_Mayday_UNKLE_feat._The_Duke_Spirit.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mayday (feat. The Duke Spirit)",
+      "artist": "UNKLE",
+      "has_synced": true,
+      "path": "select/05_Mayday_(feat._The_Duke_Spirit)_UNKLE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Spring - Live At Mayday 1997",
+      "artist": "RMB",
+      "has_synced": false,
+      "path": "select/06_Spring_-_Live_At_Mayday_1997_RMB.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mayday",
+      "artist": "Boys Noize",
+      "has_synced": false,
+      "path": "select/07_Mayday_Boys_Noize.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mayday!!! Fiesta Fever - Live from 2020",
+      "artist": "AWOLNATION",
+      "has_synced": true,
+      "path": "select/08_Mayday!!!_Fiesta_Fever_-_Live_from_2020_AWOLNATION.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mayday!!! Fiesta Fever",
+      "artist": "AWOLNATION",
+      "has_synced": true,
+      "path": "select/09_Mayday!!!_Fiesta_Fever_AWOLNATION.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mayday",
+      "artist": "Crimson Glory",
+      "has_synced": true,
+      "path": "select/10_Mayday_Crimson_Glory.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mayday in Kiev",
+      "artist": "Watchtower",
+      "has_synced": true,
+      "path": "select/11_Mayday_in_Kiev_Watchtower.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "MayDay",
+      "artist": "Eugenio Finardi",
+      "has_synced": false,
+      "path": "select/12_MayDay_Eugenio_Finardi.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Mayday",
+      "artist": "Francesco De Gregori",
+      "has_synced": true,
+      "path": "select/13_Mayday_Francesco_De_Gregori.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Mayday",
+      "artist": "Thingy",
+      "has_synced": false,
+      "path": "select/14_Mayday_Thingy.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Mayday",
+      "artist": "The Go! Team",
+      "has_synced": true,
+      "path": "select/15_Mayday_The_Go!_Team.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Mayday (featuring Duke Spirit)",
+      "artist": "UNKLE",
+      "has_synced": true,
+      "path": "select/16_Mayday_(featuring_Duke_Spirit)_UNKLE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MAYDAY",
+      "artist": "TheFatRat, Laura Brehm",
+      "has_synced": false,
+      "path": "select/pl_01_MAYDAY_TheFatRat,_Laura_Brehm.txt"
+    }
+  ]
+}
